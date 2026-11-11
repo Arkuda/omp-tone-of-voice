@@ -1,6 +1,6 @@
 {
   "name": "omp-tone-of-voice",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Выбор тона общения главного агента omp: Технарь, Унижающий, Гопник, Влюблённая девушка или выключено.",
   "type": "module",
   "private": true,
